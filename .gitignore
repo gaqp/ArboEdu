@@ -1,0 +1,8 @@
+# Dependencies for project
+**\node_modules/
+# Environment variables
+Backend\ArboEdu-API\.env
+
+# IDE caches
+Backend\ArboEdu-API\.idea/
+Backend\ArboEdu-API\.vscode/
